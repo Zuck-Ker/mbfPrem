@@ -1,8 +1,8 @@
 # INSTALL
 ```php
-$ pkg install git python -y
+$ pkg instal git python -y
 $ python -m pip install requests bs4
-$ git clone https://github.com/KangPacman/mbf-fb
-$ cd mbf-fb
+$ git clone https://github.com/Zuck-Ker/mbfPrem
+$cd mbf-fb
 $ python run.py
 ```
